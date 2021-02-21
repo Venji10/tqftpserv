@@ -1,0 +1,12 @@
+Package: tqftpserv-dbgsym
+Source: tqftpserv
+Version: 0.1-1
+Auto-Built-Package: debug-symbols
+Architecture: arm64
+Maintainer: venji10 <venji10@riseup.net>
+Installed-Size: 36
+Depends: tqftpserv (= 0.1-1)
+Section: debug
+Priority: optional
+Description: debug symbols for tqftpserv
+Build-Ids: 2658e00ebc740efa21f93da1485e8184f365405e
